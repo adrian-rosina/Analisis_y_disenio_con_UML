@@ -1,25 +1,5 @@
 # 📚 Sistema de Gestión de Biblioteca – Análisis y Diseño UML
 
-## 🧩 Objetivo del proyecto
-
-El propósito del sistema es permitir la **gestión de usuarios, préstamos y catálogo de libros** en una biblioteca.  
-A través del modelado UML se busca representar las principales funciones y relaciones entre los elementos del sistema antes de su implementación.
-
----
-
-## 🧠 Funcionalidades principales
-
-El sistema propuesto cubre las siguientes áreas:
-
-- **Gestión de usuarios:** alta, baja y modificación de socios.
-- **Gestión del catálogo:** registro, búsqueda, modificación y eliminación de libros.
-- **Gestión de préstamos:** registro de préstamos, devoluciones, renovaciones y reservas.
-- **Penalizaciones:** control de sanciones por retrasos.
-- **Informes e incidencias:** generación de reportes e identificación de ejemplares perdidos o dañados.
-- **Acceso por roles:** socio, bibliotecario y administrador, cada uno con permisos diferentes.
-
----
-
 
 ### 1️⃣ Diagrama de casos de uso
 ![Diagrama de casos de uso](Diagrama%20de%20casos%20de%20uso%20(PlantUML).png)
